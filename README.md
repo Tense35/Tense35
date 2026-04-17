@@ -1,22 +1,21 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola, soy Daniel Salazar</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></summary>
-  </ul>
+<div align="center">
+  <h1>Hola, soy Daniel Salazar 👋</h1>
+  <p>Software Developer | TypeScript Lover 🚀</p>
 </div>
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **Sobre mi**
+---
 
-<br>
+## 🧑‍💻 Sobre mí
 
-- Soy tecnólogo en análisis y desarrollo de Software
-- Mi tecnología favorita es Typescript
-- Me gusta estar aprendiendo continuamente
-- Me gusta participar en proyectos desafiantes y salir de mi zona de confort
+- 💻 Tecnólogo en Análisis y Desarrollo de Software  
+- ⚡ Apasionado por **TypeScript** y el ecosistema JavaScript  
+- 📚 En constante aprendizaje  
+- 🚀 Me gustan los proyectos desafiantes  
+- 🎯 Enfocado en construir soluciones escalables  
 
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Stack tecnológico</b>
-<br>
+## 🛠️ Stack Tecnológico
 
 <p align="center">
 
@@ -74,33 +73,40 @@
   ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
   ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
   ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Analíticas de Github </b>
-<br>
-
-<p align="center">
-<a href="https://github.com/Tense35">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tense35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tense35&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
+---
 
-## <b> Contacta conmigo</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 🚀 Proyectos
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/daniel-salazar-giraldo/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+- <img src="https://devtens.com/logo-mark.png" width="22" align="center"/> **[Devtens:](https://devtens.com)** Software a medida y soluciones digitales escalables  
+
+- <img src="https://www.scrampi.com/scrampi-primary.svg" width="20" align="center"/> **[Scrampi:](https://scrampi.com)** Sistema POS moderno enfocado en rendimiento y escalabilidad  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tense35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tense35&layout=compact&theme=algolia"/>
+</p>
+
+---
+
+## 🤝 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-salazar-giraldo/">
+    <img src="https://img.icons8.com/doodle/40/linkedin--v2.png"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/tense35">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+  <a href="https://github.com/tense35">
+    <img src="https://img.icons8.com/doodle/40/github--v1.png"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://wa.me/+573106485722">
-		<img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
+  <a href="https://wa.me/+573106485722">
+    <img src="https://img.icons8.com/doodle/40/whatsapp--v1.png"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="mailto:dsalazar35@hotmail.com">
-		<img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png">
+  <a href="mailto:dsalazar35@hotmail.com">
+    <img src="https://img.icons8.com/doodle/40/gmail--v1.png"/>
   </a>
-  </div>
+</p>
