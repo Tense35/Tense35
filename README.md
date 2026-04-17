@@ -10,7 +10,7 @@
 <br>
 
 - Soy tecnólogo en análisis y desarrollo de Software
-- Mi tecnología favorita es Javascript
+- Mi tecnología favorita es Typescript
 - Me gusta estar aprendiendo continuamente
 - Me gusta participar en proyectos desafiantes y salir de mi zona de confort
 
@@ -37,7 +37,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)
-  ![PrimeNg](https://img.shields.io/badge/-PrimeNg-DD0031?style=flat&logo=primeng)
+  ![PrimeNg](https://img.shields.io/badge/-PrimeNg-05122A?style=flat&logo=primeng)
 
 - **Nube**
 
@@ -51,6 +51,9 @@
   ![API Gateway](https://img.shields.io/badge/-API%20Gateway-05122A?style=flat&logo=amazonapigateway)&nbsp;
   ![EC2](https://img.shields.io/badge/-EC2-05122A?style=flat&logo=amazonec2)&nbsp;
   ![Cognito](https://img.shields.io/badge/-Cognito-05122A?style=flat&logo=amazoncognito)&nbsp;
+  ![Cloudfront](https://img.shields.io/badge/-Cloudfront-05122A?style=flat&logo=amazonaws&logoColor=##FF9900)&nbsp;
+
+  &nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare&logoColor=#F38020)
 
 - **Bases de datos**
 
@@ -70,6 +73,7 @@
   ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=4A154B)&nbsp;
   ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
   ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+  ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
 
 <br>
 
