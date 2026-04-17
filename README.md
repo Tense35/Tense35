@@ -37,6 +37,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)
+  ![PrimeNg](https://img.shields.io/badge/-PrimeNg-DD0031?style=flat&logo=primeng)
 
 - **Nube**
 
